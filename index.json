@@ -1,0 +1,69 @@
+[
+    {
+        "id": 1,
+        "name": "Muneem Hussain",
+        "bio": "I am working with web design from 2019. I have worked on 6+ projects as a front-end developer, among them two of these were react app. Right now, I am exploring advance Node.js and MongoDB to develope modern application.",
+        "img":"https://scontent.fjsr6-1.fna.fbcdn.net/v/t1.6435-9/132202378_1463933907128940_5857516028995301147_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_eui2=AeGpza0mYUO6Tf70CypMIZ_xfwRQ9E2-PTp_BFD0Tb49OuOYNxLw_pHzh5XbQQ697ejAbZQpuJuHWeIUShw1U9Cn&_nc_ohc=MxZ_IC3FNpkAX-uX3dc&_nc_ht=scontent.fjsr6-1.fna&oh=00_AT-JJmmnqRukNzWVz0sU2Z7EiVftHBDLGYTItIltVw7KVA&oe=62B689EF",
+        "occupation": "Jr. Software Developer",
+        "country": "Bangladesh",
+        "facebook":"https://www.facebook.com/abir.914",
+        "instagram":"https://www.instagram.com/abir.914/",
+        "github":"https://github.com/hussain-1913010"
+    },
+    {
+        "id": 2,
+        "name": "Jhankar Mahbub",
+        "bio": "Sr. Web Developer || Runner (3 Marathons) || Author(4x Bestselling in Bangladesh) || Youtuber (250k+ Subs) || Entrepreneur || Teacher (Teach Web Development) || Marketing Enthusiast",
+        "img":"https://scontent.fjsr6-1.fna.fbcdn.net/v/t1.6435-9/120894323_197059875119957_6342630029659575816_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEaKdGE_8uBOSRRpp8oMgQ9KV-wUZZMoFspX7BRlkygWyuWshXJoB-nY_3M49GlOuP-8Ob9eyD3QVrqf3S3G5dU&_nc_ohc=PGGuf--11zkAX_JrJkb&_nc_ht=scontent.fjsr6-1.fna&oh=00_AT84MAA5MqLPz0macmbseIVxxqmHTQlDI-krBdMBdFHINA&oe=62B95600",
+        "occupation": "Software Developer",
+        "country": "Bangladesh",
+        "facebook":"https://www.facebook.com/abir.914",
+        "instagram":"https://www.instagram.com/abir.914/",
+        "github":"https://github.com/hussain-1913010"
+    },
+    {
+        "id": 3,
+        "name": "Zulkarnain Mahmud",
+        "bio": "Zulkarnine Mahmud is a Bangladeshi software engineer who has recently joined in Google after his struggling life. It made news headlines in September 2019.",
+        "img":"https://scontent.fjsr6-1.fna.fbcdn.net/v/t1.6435-9/118703286_10157794841983590_5055416225110527861_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeF4wBNlIDQ9c5ClV2qYOwqOHmE-IGHGWGQeYT4gYcZYZBzEGInde-0o34xlwg1SnL-ET7SihiPVZoSmDWfPtX58&_nc_ohc=-twGij-6VjYAX9by4xa&_nc_ht=scontent.fjsr6-1.fna&oh=00_AT8j5kDD-LC4D89gTuzIxWoSTlNHAGyH1E3Pm4Xl0ld6CA&oe=62B5B757",
+        "occupation": "Software Engineer",
+        "country": "United States",
+        "facebook":"https://www.facebook.com/abir.914",
+        "instagram":"https://www.instagram.com/abir.914/",
+        "github":"https://github.com/hussain-1913010"
+    },
+    {
+        "id": 4,
+        "name": "Thapa Technical",
+        "bio": "I am working with web design from 2019. I have worked on 6+ projects as a front-end developer, among them two of these were react app. Right now, I am exploring advance Node.js and MongoDB to develope modern application.",
+        "img":"https://avatars.githubusercontent.com/u/40519302?v=4",
+        "occupation": "Software Developer",
+        "country": "India",
+        "facebook":"https://www.facebook.com/abir.914",
+        "instagram":"https://www.instagram.com/abir.914/",
+        "github":"https://github.com/hussain-1913010"
+    },
+    {
+        "id": 5,
+        "name": "Chris Hemsworth",
+        "bio": "Christopher Hemsworth AM is an Australian actor. He rose to prominence playing Kim Hyde in the Australian television series Home and Away before beginning a film career in Hollywood",
+        "img":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZ6TeDFGGXiuKR36W9VBw93YeRuOf_-eaDmfqJ1InJONlGKnqV",
+        "occupation": "Film Actor",
+        "country": "United States",
+        "facebook":"https://www.facebook.com/abir.914",
+        "instagram":"https://www.instagram.com/abir.914/",
+        "github":"https://github.com/hussain-1913010"
+    },
+    {
+        "id": 6,
+        "name": "Robert Downey Jr.",
+        "bio": "Robert John Downey Jr. is an American actor and producer. His career has been characterized by critical and popular success in his youth, followed by a period of substance abuse and legal troubles, before a resurgence of commercial success later in his career.",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8NG8tRjukxvrSbGk2CfWU_aw9yUjpnFqbAoORbc7lZityM2nl",
+        "occupation": "Film Actor",
+        "country": "United States",
+        "facebook":"https://www.facebook.com/abir.914",
+        "instagram":"https://www.instagram.com/abir.914/",
+        "github":"https://github.com/hussain-1913010"
+    }
+]
+
