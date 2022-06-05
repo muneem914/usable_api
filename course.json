@@ -1,0 +1,67 @@
+[
+    {
+        "id": "1",
+        "title": "Web Development",
+        "subTitle": "You will learn from Basics to Intermediate level, then you can continue with selft learning.",
+        "image" : "https://www.aziza.com.ng/listing/wp-content/uploads/2020/06/Web-Development.jpg",
+        "description": "lorem ipsum dolor sit amet Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam nam sint labore at vel perspiciatis asperiores deleniti optio praesentium alias quos natus accusamus sit debitis quibusdam eligendi, recusandae iste a iure tempore iusto ex minima mollitia ad. Dolor, laboriosam blanditiis, at possimus officiis iure suscipit dolores ullam, consequatur eaque a! Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam nam sint labore at vel perspiciatis asperiores deleniti optio praesentium alias quos natus accusamus sit debitis quibusdam eligendi, recusandae iste a iure tempore iusto ex minima mollitia ad. Dolor, laboriosam blanditiis, at possimus officiis iure suscipit dolores ullam, consequatur eaque a!",
+        "price": 500,
+        "tag1": "HTML",
+        "tag2": "CSS",
+        "tag3": "JavaScript"
+    },
+    {
+        "id": "2",
+        "title": "React Development",
+        "subTitle": "You will learn from Basics to Intermediate level, then you can continue with selft learning.",
+        "image": "https://techvccloud.mediacdn.vn/2020/8/14/148-15974015288501803718399-crop-15974015349661210457462.png",
+        "description": "lorem ipsum dolor sit amet Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam nam sint labore at vel perspiciatis asperiores deleniti optio praesentium alias quos natus accusamus sit debitis quibusdam eligendi, recusandae iste a iure tempore iusto ex minima mollitia ad. Dolor, laboriosam blanditiis, at possimus officiis iure suscipit dolores ullam, consequatur eaque a! Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam nam sint labore at vel perspiciatis asperiores deleniti optio praesentium alias quos natus accusamus sit debitis quibusdam eligendi, recusandae iste a iure tempore iusto ex minima mollitia ad. Dolor, laboriosam blanditiis, at possimus officiis iure suscipit dolores ullam, consequatur eaque a!",
+        "price": 5000,
+        "tag1": "HTML",
+        "tag2": "SCSS",
+        "tag3": "TypeScript/ JavaScript"
+    },
+    {
+        "id": "3",
+        "title": "Database Administration",
+        "subTitle": "You will learn from Basics to Intermediate level, then you can continue with selft learning.",
+        "image" : "https://4.imimg.com/data4/MU/ST/MY-10558374/database-administration-and-monitoring-500x500.png",
+        "description": "lorem ipsum dolor sit amet Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam nam sint labore at vel perspiciatis asperiores deleniti optio praesentium alias quos natus accusamus sit debitis quibusdam eligendi, recusandae iste a iure tempore iusto ex minima mollitia ad. Dolor, laboriosam blanditiis, at possimus officiis iure suscipit dolores ullam, consequatur eaque a! Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam nam sint labore at vel perspiciatis asperiores deleniti optio praesentium alias quos natus accusamus sit debitis quibusdam eligendi, recusandae iste a iure tempore iusto ex minima mollitia ad. Dolor, laboriosam blanditiis, at possimus officiis iure suscipit dolores ullam, consequatur eaque a!",
+        "price": 5000,
+        "tag1": "MySQL",
+        "tag2": "NoSql",
+        "tag3": "Relational DB"
+    },
+    {
+        "id": "4",
+        "title": "Graphic Design",
+        "subTitle": "You will learn from Basics to Intermediate level, then you can continue with selft learning.",
+        "image": "https://gdj-inr5u0ip5pewom.stackpathdns.com/wp-content/uploads/2018/11/what-is-graphic-design.jpg",
+        "description": "lorem ipsum dolor sit amet Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam nam sint labore at vel perspiciatis asperiores deleniti optio praesentium alias quos natus accusamus sit debitis quibusdam eligendi, recusandae iste a iure tempore iusto ex minima mollitia ad. Dolor, laboriosam blanditiis, at possimus officiis iure suscipit dolores ullam, consequatur eaque a! Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam nam sint labore at vel perspiciatis asperiores deleniti optio praesentium alias quos natus accusamus sit debitis quibusdam eligendi, recusandae iste a iure tempore iusto ex minima mollitia ad. Dolor, laboriosam blanditiis, at possimus officiis iure suscipit dolores ullam, consequatur eaque a!",
+        "price": 5000,
+        "tag1": "Photoshop",
+        "tag2": "Illustrator",
+        "tag3": "In design"
+    },
+    {
+        "id": "5",
+        "title": "Coding Fundamentals",
+        "subTitle": "You will learn from Basics to Intermediate level, then you can continue with selft learning.",
+        "image": "https://content.techgig.com/thumb/msid-83435764,width-460,resizemode-4/5-Best-books-to-learn-coding-fundamentals.jpg?35138",
+        "description": "lorem ipsum dolor sit amet Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam nam sint labore at vel perspiciatis asperiores deleniti optio praesentium alias quos natus accusamus sit debitis quibusdam eligendi, recusandae iste a iure tempore iusto ex minima mollitia ad. Dolor, laboriosam blanditiis, at possimus officiis iure suscipit dolores ullam, consequatur eaque a! Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam nam sint labore at vel perspiciatis asperiores deleniti optio praesentium alias quos natus accusamus sit debitis quibusdam eligendi, recusandae iste a iure tempore iusto ex minima mollitia ad. Dolor, laboriosam blanditiis, at possimus officiis iure suscipit dolores ullam, consequatur eaque a!",
+        "price": 5000,
+        "tag1": "DSA",
+        "tag2": "Algorithms",
+        "tag3": "Data mining"
+    },{
+        "id": "6",
+        "title": "Ethical Hacking",
+        "subTitle": "You will learn from Basics to Intermediate level, then you can continue with selft learning.",
+        "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200710232545/Top-10-Kali-Linux-Tools-For-Hacking.png",
+        "description": "lorem ipsum dolor sit amet Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam nam sint labore at vel perspiciatis asperiores deleniti optio praesentium alias quos natus accusamus sit debitis quibusdam eligendi, recusandae iste a iure tempore iusto ex minima mollitia ad. Dolor, laboriosam blanditiis, at possimus officiis iure suscipit dolores ullam, consequatur eaque a! Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam nam sint labore at vel perspiciatis asperiores deleniti optio praesentium alias quos natus accusamus sit debitis quibusdam eligendi, recusandae iste a iure tempore iusto ex minima mollitia ad. Dolor, laboriosam blanditiis, at possimus officiis iure suscipit dolores ullam, consequatur eaque a!",
+        "price": 5000,
+        "tag1": "Testing",
+        "tag2": "Exploitation",
+        "tag3": "Linux OS"
+    }
+]
